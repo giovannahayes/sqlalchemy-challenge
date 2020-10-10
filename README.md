@@ -6,15 +6,18 @@
 
 ### Precipitation Analysis
 
-####From the summary stats and the plot below on precipitation we see that Hawaii did not have a lot of rain the previous year.
+#### From the summary stats and the plot below on precipitation we see that Hawaii did not have a lot of rain the previous year.
 
-![Image of PRCP](https://github.com/giovannahayes/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export%20GOH.png)
+![Image of PRCP](https://github.com/giovannahayes/sqlalchemy-challenge/blob/main/Images/PandasPrecipitation.png)
 
-![Image of STAT](https://github.com/giovannahayes/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export%20GOH.png)
+![Image of STAT](https://github.com/giovannahayes/sqlalchemy-challenge/blob/main/Images/Stats.PNG)
 
 ### Station Analysis
 
 #### A total of nine stations were identified in the database query. Their total combined observation count was close to 20,000 observations but their most active station, USC00519281, accounted for 15% of those observations. The average temperature for the previous year at this station was approximately 77 F. 
+
+![Image of STATION](https://github.com/giovannahayes/sqlalchemy-challenge/blob/main/Images/Histogram.png)
+
 
 ## Climate App
 
